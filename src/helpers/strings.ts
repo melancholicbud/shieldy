@@ -180,7 +180,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     ru: 'Отлично, теперь я буду использовать этот временной лимит.',
     it: 'Magnifico, Ora userò questo tempo',
     et: 'Väga hea, nüüd ma kasutan seda aja limiiti.',
-    uk: 'Чудово, тепер я буду використовувати це обмеження часу.',
+    uk: 'Чудово, тепер я буду використовувати цей обмеженний час.',
     br: 'Boa, Eu irei usar esse tempo limite agora.',
   },
   seconds: {
@@ -276,7 +276,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et:
       'Great! Now all newcomers will only be able to send usual text messages to this chat.',
     uk:
-      'Great! Now all newcomers will only be able to send usual text messages to this chat.',
+      'Чудово! Тепер всі новачки зможуть відправляти тільки текстові повідомлення першу добу в чаті.',
     br:
       'Great! Now all newcomers will only be able to send usual text messages to this chat.',
   },
@@ -290,7 +290,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     et:
       'Great! Now all newcomers will be able to send any type of content to this chat.',
     uk:
-      'Great! Now all newcomers will be able to send any type of content to this chat.',
+      'Чудово! Тепер всі новачки зможуть відправляти будь-які повідомлення в цей чат.',
     br:
       'Great! Now all newcomers will be able to send any type of content to this chat.',
   },
@@ -299,7 +299,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     ru: 'Отлично! Теперь сообщения о входе пользователей будут удаляться.',
     it: 'Great! Now entry messages will be deleted.',
     et: 'Great! Now entry messages will be deleted.',
-    uk: 'Great! Now entry messages will be deleted.',
+    uk: 'Чудово! Тепер повідомлення про вхід користувачів будуть видалятися.',
     br: 'Great! Now entry messages will be deleted.',
   },
   deleteEntryMessages_false: {
@@ -307,7 +307,7 @@ Ainda tem perguntas? De uma olhada no canal de suporte — @borodutch\\_support.
     ru: 'Отлично! Теперь сообщения о входе пользователей не будут удаляться.',
     it: 'Great! Now entry messages will not be deleted.',
     et: 'Great! Now entry messages will not be deleted.',
-    uk: 'Great! Now entry messages will not be deleted.',
+    uk: 'Чудово! Тепер повідомлення про вхід користувачів не будуть видалятися.',
     br: 'Great! Now entry messages will not be deleted.',
   },
 }
